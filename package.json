@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/plepe/request-xmlhttprequest/issues"
   },
-  "homepage": "https://github.com/plepe/request-xmlhttprequest#readme"
+  "homepage": "https://github.com/plepe/request-xmlhttprequest#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
